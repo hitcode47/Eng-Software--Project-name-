@@ -3,7 +3,7 @@
 ## 👥 Equipe
 - **Paulo Vitor da Silva Rodrigues** — Backend  
 - **Bruno dos Santos Lopes** — Frontend  
-- **Nome Completo 3** — Banco de Dados  
+- **Ana Carolina Carvalho Martins** — Banco de Dados  
 - **Nome Completo 4** — Integração e Testes  
 
 ---
@@ -19,7 +19,7 @@ Por fim, pretende-se integrar **[tecnologias ou diferencial, como IoT/IA] tecnol
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem: Python**  
 - **Framework(s): React, Flask**  
-- **Banco de Dados:**  
+- **Banco de Dados: PostgreSQL**  
 - **Agentes de IA (se houver): ChatGPT/Copilot**  
 - **Outros:**  
 
@@ -30,7 +30,7 @@ Por fim, pretende-se integrar **[tecnologias ou diferencial, como IoT/IA] tecnol
 2. Como usuário, quero **[excluir minha conta]**, 
 3. Como usuário, quero **[visualizar meu saldo atualizado para controlar minhas finanças.]**,   
 4. Como usuário, quero **[transferir dinheiro para outros clientes do banco via CPF/Chave.]**,  
-5. Como usuário, quero **[ação]**,  
-6. Como usuário, quero **[ação]**, 
+5. Como usuário, quero **[visualizar meu histórico de transações.]**,  
+6. Como usuário, quero **[cadastrar e gerenciar chaves de transferência.]**, 
 7. Como usuário, quero **[ação]**,  
 8. Como usuário, quero **[ação]**,
