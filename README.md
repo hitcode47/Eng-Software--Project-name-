@@ -26,11 +26,11 @@ Por fim, pretende-se integrar **[tecnologias ou diferencial, como IoT/IA]** para
 ---
 
 ## 📖 Histórias de Usuário
-1. Como usuário, quero **[ação]**, para que **[benefício]**.  
-2. Como usuário, quero **[ação]**, para que **[benefício]**.  
-3. Como usuário, quero **[ação]**, para que **[benefício]**.  
-4. Como usuário, quero **[ação]**, para que **[benefício]**.  
-5. Como usuário, quero **[ação]**, para que **[benefício]**.  
-6. Como usuário, quero **[ação]**, para que **[benefício]**.  
-7. Como usuário, quero **[ação]**, para que **[benefício]**.  
-8. Como usuário, quero **[ação]**, para que **[benefício]**.  
+1. Como usuário, quero **[Fazer meu cadastro]**,
+2. Como usuário, quero **[Excluir minha conta]**, 
+3. Como usuário, quero **[ação]**,   
+4. Como usuário, quero **[ação]**,  
+5. Como usuário, quero **[ação]**,  
+6. Como usuário, quero **[ação]**, 
+7. Como usuário, quero **[ação]**,  
+8. Como usuário, quero **[ação]**,
