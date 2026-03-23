@@ -17,7 +17,7 @@ Por fim, pretende-se integrar **tecnologias web ágeis (como Python/Flask) e o u
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem: Python**  
+- **Linguagem: JavaScript, Python**  
 - **Framework(s): React, Flask**  
 - **Banco de Dados: PostgreSQL**  
 - **Agentes de IA (se houver): ChatGPT/Copilot**  
