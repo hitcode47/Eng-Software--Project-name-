@@ -26,11 +26,11 @@ Por fim, pretende-se integrar **tecnologias web modernas e boas práticas de eng
 ---
 
 ## 📖 Histórias de Usuário
-1. Como usuário, quero **fazer meu cadastro**,
-2. Como usuário, quero **excluir minha conta**, 
-3. Como usuário, quero **visualizar meu saldo atualizado para controlar minhas finanças.**,   
-4. Como usuário, quero **transferir dinheiro para outros clientes do banco via CPF/Chave.**,  
-5. Como usuário, quero **visualizar meu histórico de transações.**,  
-6. Como usuário, quero **cadastrar e gerenciar chaves de transferência.**, 
-7. Como usuário, quero **pagar um boleto**,  
-8. Como usuário, quero **compartilhar um comprovante de pagamento/transferência**,
+1. Como usuário, quero **fazer meu cadastro**, para acessar serviços da biblioteca.
+2. Como usuário, quero **excluir minha conta**, para encerrar vínculo com a biblioteca.
+3. Como bibliotecário, quero **cadastrar livros**, para atualizar o sistema.   
+4. Como usuário, quero **pesquisar obras**, para encontrar rapidamente o que preciso.  
+5. Como xxxxx, quero **xxxxx**, para xxxxxxxxxxxx.
+6. Como xxxxx, quero **xxxxx**, para xxxxxxxxxxxx.
+7. Como xxxxx, quero **xxxxx**, para xxxxxxxxxxxx.
+8. Como xxxxx, quero **xxxxx**, para xxxxxxxxxxxx.  
